@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix AstroQuest: Relics of the Moon \u0026 Mars",
+  "description": "An adorable cosmic exploration game where an astronaut discovers historic Apollo lunar relics and Mars rovers, solving mini-quizzes to collect them for the Cosmic Museum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
